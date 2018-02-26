@@ -8,6 +8,6 @@
 
 .content > p{
 color: red;
-font: bold, 72px;
+font-weight: bold;
 text-align:center;
 }
