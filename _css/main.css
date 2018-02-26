@@ -7,3 +7,9 @@
   background-color: darkolivegreen;
   
 }
+
+.content > p{
+color: red;
+font: bold, 72px;
+text-align:center;
+}
